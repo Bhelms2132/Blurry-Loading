@@ -4,6 +4,8 @@
 
 
 ## Concepts Applied
--HTML
--CSS
--JAVASCRIPT
+- HTML
+- CSS
+ - z-index
+ - filter: blur()
+- JAVASCRIPT
